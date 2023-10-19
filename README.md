@@ -1,2 +1,3 @@
 # chrome_extension
-the name of thus chrome extenion is Leads Tracker.
+
+The name of this chrome extenion is Leads Tracker.
